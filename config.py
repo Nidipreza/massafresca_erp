@@ -1,0 +1,9 @@
+APP_NAME = "Massa Fresca ERP"
+
+COLOR_PRIMARY = "#1a237e"
+COLOR_SUCCESS = "#2e7d32"
+COLOR_WARNING = "#ef6c00"
+COLOR_DANGER = "#c62828"
+
+COLOR_BG_APP = "#f5f6fa"
+COLOR_BG_CARD = "#ffffff"
